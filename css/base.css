@@ -14,7 +14,7 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 html {
-	font-family: sans-serif;
+	font-family: "Roboto Mono";
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
@@ -38,11 +38,11 @@ html {
 }
 
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Roboto Mono";
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #333;
-	background-color: #fff
+	color: #CCCCCC;
+	background-color: #000
 }
 
 p {
@@ -50,10 +50,10 @@ p {
 }
 
 body {
-	background-color: #fff;
+	background-color: #000;
 	font-size: 20px;
 	margin-bottom: 20px;
-	font-family: elronmonospace, monospace;
+	font-family: "Roboto Mono", monospace;
 }
 
 .h {
@@ -130,7 +130,7 @@ img {
 	display: none;
 }
 a {
-	color: #2C37BF  ;
+	color: #2C80BF  ;
 	text-decoration: none
 }
 sup {
@@ -142,21 +142,8 @@ sup {
 input {
 	line-height: normal
 }
-body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	line-height: 1.42857143;
-	color: #333;
-	background-color: #fff
-}
-input,
-button,
-select,
-textarea {
-	font-family: inherit;
-	font-size: inherit;
-	line-height: inherit
-}
+
+
 
 h1,
 h2,
@@ -173,7 +160,7 @@ h6,
 	font-family: inherit;
 	font-weight: 500;
 	line-height: 1.1;
-	color: inherit
+	color: #CCCCCC
 }
 .lead {
 	margin-bottom: 20px;
@@ -200,12 +187,6 @@ li {
 }
 .alert>p+p {
 	margin-top: 5px
-}
-body {
-	background-color: #fff;
-	font-size: 20px;
-	margin-bottom: 20px;
-	font-family: elronmonospace, monospace;
 }
 
 body {
