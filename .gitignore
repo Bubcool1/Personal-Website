@@ -39,3 +39,4 @@ VSCode.code-workspace
 .history
 
 # End of https://www.gitignore.io/api/macos,java-web,visualstudiocode
+.DS_Store
